@@ -10,3 +10,4 @@ Visit the ["Express.js/JavaScript Authorization: API Role-Based Access Control"]
 
 Auth0 is a flexible, drop-in solution to add authentication and authorization services to your applications. Your team and organization can avoid the cost, time, and risk that comes with building your own solution to authenticate and authorize users. We offer tons of guidance and SDKs for you to get started and [integrate Auth0 in your stack easily](https://auth0.com/developers/hub/code-samples/full-stack).
 
+*forked from Auth0*
